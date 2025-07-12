@@ -1,0 +1,36 @@
+{
+  "name": "@keitagames/keitaui",
+  "version": "1.3.6",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keitagame/Project-React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keitagame/Project-React/issues"
+  },
+  "homepage": "https://github.com/keitagame/Project-React#readme",
+  "dependencies": {
+    "@rollup/plugin-commonjs": "^28.0.5",
+    "@rollup/plugin-node-resolve": "^16.0.1",
+    "@rollup/plugin-typescript": "^12.1.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-player": "^2.16.0",
+    "rollup": "^4.43.0",
+    "tslib": "^2.8.1",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6"
+  }
+}
